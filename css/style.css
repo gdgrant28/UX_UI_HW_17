@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f1f1f1;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 20px; /* Adjust logo text size here */
+    font-weight: bold;
+    display: flex; /* Enable flexbox for logo layout */
+    align-items: center; /* Vertically center logo content */
+  }
+  
+  .logo img {
+    margin-right: 10px; /* Adjust spacing between logo and text */
+    width: 200x; /* Replace with desired logo width */
+    height: 50px; /* Replace with desired logo height */
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .hero img {
+    width: 80%; /* Replace with desired image width */
+    height: auto; /* Replace with desired image height */
+    position: relative; /* Enable relative positioning */
+  }
+  
+  
+  .hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .hero button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  footer {
+    background-color: #f1f1f1;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
