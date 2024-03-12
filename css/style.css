@@ -46,9 +46,9 @@ body {
   }
   
   .hero img {
-    width: 80%; /* Replace with desired image width */
-    height: auto; /* Replace with desired image height */
-    position: relative; /* Enable relative positioning */
+    width: 80%; 
+    height: auto; 
+    position: relative; 
   }
   
   
